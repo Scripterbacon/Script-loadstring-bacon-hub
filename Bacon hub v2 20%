@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Scripterbacon/Bacon-hub-v2-30-/main/Bacon%20hub%20loadstring"))()
